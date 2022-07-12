@@ -1,5 +1,8 @@
 # Docker-Test-Technique-Partie1
 
+Questions d’Entretien sur Docker avec des réponses pour la préparation des entretiens d’embauche, tests en ligne, examens et certifications. Ces questions et réponses sur Docker comprennent divers sujets tel que les bases du Docker, les images Docker, Docker Compose, les concepts (containers, images, volumes, …), etc… Et sont tirés d’un vrai entretien écrit et certaines parties sont en direct. Cette méthode d’apprentissage systématique préparera facilement toute personne pour réussir son test sur Docker.
+
+
 1. Qu’est-ce que Docker ?
 Docker est une plateforme de conteneurisation open-source très populaire et puissante qui est utilisée pour créer, déployer et exécuter des applications. Docker vous permet de découpler l’application/le logiciel de l’infrastructure existante.
 Docker peut être vu comme un grand bateau (docker) transportant d’énormes boîtes de produits (conteneurs).
